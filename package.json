@@ -1,0 +1,18 @@
+{
+	"name": "typesafe-maths",
+	"version": "1.0.0",
+	"description": "Mathematics but in a type safe manner",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest ."
+	},
+	"keywords": [
+		"maths"
+	],
+	"author": "Laura disaster",
+	"license": "ISC",
+	"dependencies": {
+		"jest": "^23.6.0",
+		"text-to-number": "0.0.0"
+	}
+}

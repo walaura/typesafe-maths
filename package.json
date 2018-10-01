@@ -1,6 +1,6 @@
 {
 	"name": "typesafe-maths",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"description": "Mathematics but in a type safe manner",
 	"main": "index.js",
 	"scripts": {
@@ -9,6 +9,10 @@
 	"keywords": [
 		"maths"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/walaura/typesafe-maths"
+	},
 	"author": "Laura disaster",
 	"license": "ISC",
 	"dependencies": {

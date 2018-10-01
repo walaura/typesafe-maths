@@ -1,6 +1,6 @@
 {
 	"name": "typesafe-maths",
-	"version": "1.2.2",
+	"version": "1.2.3",
 	"description": "Mathematics but in a type safe manner",
 	"main": "index.js",
 	"scripts": {

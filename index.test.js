@@ -6,10 +6,10 @@ test('1 + 2 to equal 3', () => {
 	expect(add(1, '2')).toBe(3);
 });
 
-test('1 - 2 to equal -3', () => {
-	expect(substract('one', 'two')).toBe(-3);
-	expect(substract('one', '2')).toBe(-3);
-	expect(substract(1, '2')).toBe(-3);
+test('1 - 4 to equal -3', () => {
+	expect(substract('one', 'four')).toBe(-3);
+	expect(substract('one', '4')).toBe(-3);
+	expect(substract(1, '4')).toBe(-3);
 });
 
 test('10 / 5 to equal 2', () => {
